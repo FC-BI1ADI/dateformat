@@ -26,7 +26,7 @@ def replace_r(str_s, str_to_replace, str_dest):
     return str_d
 
 # 设置起点路径，路径采用绝对路径
-path = r'\\FC-CLOUD\Public\Photo'
+path = r'd:\temp'
 dir_list = []
 file_list = []
 all_list = []
